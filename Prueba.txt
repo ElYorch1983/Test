@@ -5,3 +5,4 @@ git init //inicializa el repositorio
 git status // verifica el estado del repositorio
 git add // agrega el archivo al repositorio
 git remote add origin https://github.com/ElYorch1983/Test.git //agrega la liga donde se almacenara el repositorio
+$ git commit-m "Esto es una prueba"  //listo para cargarce al repositorio
