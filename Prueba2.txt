@@ -1,5 +1,4 @@
 Prueba de cambios
 Nueva Linea de codigo
-Nueva Linea de Codigo 2
 
-Esta es otra escritura de codigo, desde editor de texto
+Borrado de codigo erroneo
